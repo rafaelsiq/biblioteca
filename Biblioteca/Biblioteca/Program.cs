@@ -15,6 +15,7 @@ namespace Biblioteca
 
             questao1.Rodar();
             Console.ReadKey();
+
             Console.Clear();
             Console.WriteLine("Questao 2:");
             questao2.Rodar();
