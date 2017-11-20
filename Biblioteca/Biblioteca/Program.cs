@@ -12,6 +12,7 @@ namespace Biblioteca
         static void Main(string[] args)
         {
             Console.WriteLine("Questao 1:");
+
             questao1.Rodar();
             Console.ReadKey();
             Console.Clear();
