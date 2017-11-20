@@ -50,12 +50,6 @@
     <Compile Include="Questao2\IEmprestimo.cs" />
     <Compile Include="Questao2\Professor.cs" />
     <Compile Include="Questao2\Usuario.cs" />
-    <Compile Include="Questao1\Aluno.cs" />
-    <Compile Include="Questao1\Bibliotecario.cs" />
-    <Compile Include="Questao1\Professor.cs" />
-    <Compile Include="Questao1\Usuario.cs" />
-    <Compile Include="Testes\questao1.cs" />
-    <Compile Include="Testes\questao2.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
