@@ -4,12 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApplication1
+namespace Biblioteca.Questao2
 {
-    class Program
+    interface IEmprestimo
     {
-        static void Main(string[] args)
-        {
-        }
+        void Emprestimos();
+
     }
 }
