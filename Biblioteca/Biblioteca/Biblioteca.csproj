@@ -45,19 +45,18 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Questao1\Class1.cs" />
     <Compile Include="Questao2\Aluno.cs" />
     <Compile Include="Questao2\Bibliotecario.cs" />
     <Compile Include="Questao2\IEmprestimo.cs" />
     <Compile Include="Questao2\Professor.cs" />
     <Compile Include="Questao2\Usuario.cs" />
+    <Compile Include="Testes\Class1.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Questao1\" />
-    <Folder Include="Testes\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
